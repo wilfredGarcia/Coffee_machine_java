@@ -1,25 +1,2 @@
 # Project exclude paths
 /.gradle/
-/Coffee Machine Simulator with Java/task/build/
-/Coffee Machine Simulator with Java/task/out/
-/Coffee Machine Simulator with Java/task/out/production/classes/
-/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/
-/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/production/classes/
-/Topics/Break and continue. Branching/Printing even numbers with a skip condition/out/
-/Topics/Break and continue. Branching/Printing even numbers with a skip condition/out/production/classes/
-/Topics/Comments/The forgotten comments/out/
-/Topics/Comments/The forgotten comments/out/production/classes/
-/Topics/For loop/Grades/out/
-/Topics/For loop/Grades/out/production/classes/
-/Topics/For loop/The sum of integers from a to b/out/
-/Topics/For loop/The sum of integers from a to b/out/production/classes/
-/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/
-/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/production/classes/
-/Topics/Iterating over arrays/Sum array elements greater than a value/out/
-/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
-/Topics/Iterating over arrays/The maximum product of adjacent elements/out/
-/Topics/Iterating over arrays/The maximum product of adjacent elements/out/production/classes/
-/Topics/String/Comparing strings ignoring whitespaces/out/
-/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
-/Topics/Type casting/Rounding down a halved float value to an integer/out/
-/Topics/Type casting/Rounding down a halved float value to an integer/out/production/classes/
